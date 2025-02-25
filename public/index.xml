@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mohid Khan&#39;s Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Mohid Khan&#39;s Blog</description>
+    <generator>Hugo -- 0.144.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Feb 2025 17:34:40 +0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Tue, 25 Feb 2025 17:34:40 +0500</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;open-source-android-apps-the-good-the-bad-and-the-ugly&#34;&gt;Open Source Android Apps: The Good, The Bad, and The Ugly&lt;/h1&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;While open-source apps offer a lot of transparency and that is the main argument from a lot of people they also introduce a lot of problems related to security vulnerabilities, performance issues and mainly long-term sustainability. In this blog, I&amp;rsquo;ll dive into the reality of open-source Android apps, their impact on privacy and security, and whether the appreciation of open-source apps is actually deserved or not. Also if they provide an actual alternative to their closed-source counterparts.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

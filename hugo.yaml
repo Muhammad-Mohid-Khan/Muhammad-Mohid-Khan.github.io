@@ -45,3 +45,4 @@ params:
   ShowWordCount: true
   UseHugoToc: true
   author: "Mohid Khan"
+  comments: true

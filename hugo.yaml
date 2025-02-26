@@ -48,4 +48,4 @@ params:
 
 services:
   disqus:
-    shortname:
+    shortname: https-muhammad-mohid-khan-github-io

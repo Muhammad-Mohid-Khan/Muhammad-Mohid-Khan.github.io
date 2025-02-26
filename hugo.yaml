@@ -45,7 +45,4 @@ params:
   ShowWordCount: true
   UseHugoToc: true
   author: "Mohid Khan"
-
-services:
-  disqus:
-    shortname: https-muhammad-mohid-khan-github-io
+  disqusShortname : https-muhammad-mohid-khan-github-io

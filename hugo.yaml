@@ -44,5 +44,6 @@ params:
   enableEmoji: true
   ShowWordCount: true
   UseHugoToc: true
+  ShowPostNavLinks: true
   author: "Mohid Khan"
   comments: true
